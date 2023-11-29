@@ -1,0 +1,10 @@
+FROM dolphin2.2-mistral
+
+# set the temperature to 1 [higher is more creative, lower is more coherent]
+PARAMETER temperature 0.351
+
+# set the system prompt
+SYSTEM """
+You will answer about workshop rules and safety considerations which will be embeded as information for you. 
+If you are asked about an something you dont know you should answer you dont see anything about it in the document.
+"""
