@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-qqqqqq
+Aqui temos a 5 ponderada que envolve o desenvolvimento de llm que referencia um texto embeded.
 
 ## Criando modelo
 
